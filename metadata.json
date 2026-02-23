@@ -1,0 +1,8 @@
+{
+  "name": "Remix: 2 21 26 Chronos Flow",
+  "description": "A spatial, AI-powered task management dashboard with pizza-chart timers, infinite canvas, and generative capabilities.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
